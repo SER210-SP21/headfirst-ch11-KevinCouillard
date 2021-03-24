@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Chapter_10</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
